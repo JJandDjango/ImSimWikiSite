@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "jjanddjango.github.io/ImSimWikiSite",
+    baseUrl: "kallipolis-wiki.pages.dev",
     ignorePatterns: ["private", "templates", ".obsidian", "STRUCTURE.md"],
     defaultDateType: "modified",
     theme: {
